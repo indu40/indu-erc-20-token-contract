@@ -1,0 +1,11 @@
+node_modules
+lib
+cache
+artifacts
+typechain-types
+coverage
+deployments
+deployments_tenderly
+forge-artifacts
+bin
+out
